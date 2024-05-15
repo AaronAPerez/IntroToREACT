@@ -71,8 +71,8 @@ function App() {
 
         </Alert> */}
        
-        {display ? <Alert closeAlertFunction={setDisFunc}>Click Me For Latest Alerts</Alert> : null}
-        <Button color="warning" onClickFunction={setDisFunc}>Click for New Alerts</Button>
+        {display ? <Alert closeAlertFunction={setDisFunc}>CAUTION CAUTION CAUTION CAUTION CAUTION CAUTION</Alert> : null}
+        <Button color="warning" onClickFunction={setDisFunc}>Click Alert Button</Button>
         <Button color="primary" onClickFunction={handleClick}>One Button</Button>
         <Button color="secondary" onClickFunction={handleClick}>Two Button</Button>
         <Button color="success" onClickFunction={handleClick}>Tres Button</Button>
