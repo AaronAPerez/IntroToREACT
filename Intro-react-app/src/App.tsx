@@ -72,7 +72,7 @@ function App() {
         </Alert> */}
        
         {display ? <Alert closeAlertFunction={setDisFunc}>CAUTION CAUTION CAUTION CAUTION CAUTION CAUTION</Alert> : null}
-        <Button color="warning" onClickFunction={setDisFunc}>Click Alert Button</Button>
+        <Button color="warning" onClickFunction={setDisFunc}>SHOW</Button>
         <Button color="primary" onClickFunction={handleClick}>One Button</Button>
         <Button color="secondary" onClickFunction={handleClick}>Two Button</Button>
         <Button color="success" onClickFunction={handleClick}>Tres Button</Button>
