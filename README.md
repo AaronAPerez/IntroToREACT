@@ -19,5 +19,5 @@ Use state to display the alert. Remember passing props Remember Ternary operator
 
 <b>GitHub:</b> https://github.com/AaronAPerez/IntroToREACT    <br>
 
-<b>Peer Reviewed by:</b>            <br>
-<b>Comments:</b>            <br>
+<b>Peer Reviewed by:</b> Alicia Bryant   <br>
+<b>Comments:</b>   Alert works greeeeat! Loving the stick figure action. Go Team!  <br>
