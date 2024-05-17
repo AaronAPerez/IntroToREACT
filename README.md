@@ -23,9 +23,8 @@ https://getbootstrap.com/docs/5.1/utilities/colors/ <br>
 <b>GitHub:</b> https://github.com/AaronAPerez/IntroToREACT <br>
 
 
-Peer Reviewed by: _____________ <br>
-Comments: ____________________________________________________ <br>
-
+<b>Peer Reviewed by:</b> Alicia Bryant   <br>
+<b>Comments:</b> Everything is linked up properly. You turned off the bootsrap so I could see that everything was working. Also liked the beer mug! A+++ <br>
 
 
 ------------------------------------------------------------------------------------------------------<br>
