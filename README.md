@@ -1,3 +1,33 @@
+# Mini Challenge 6 Button Styling with modules, Like Icon
+
+
+<b>Name:</b> Aaron Perez<br>
+<b>Project:</b> Mini Challenge 6 Button Styling with modules, Like Icon <br>
+<b>Date:</b> 05/16/2024 <br>
+
+<bold>Requirements of Project:</bold>
+
+Part 1: Create a simple React component called "Like"  component that when clicked it toggles fills in the icon on and off 
+
+Part 2: Create a Button.module.css and style the button to make it look as close to the primary bootstrap button 
+
+<bold>Requirements:</bold>
+
+The component should be an icon.
+The Button.module.css should be in its own Button Folder and move your Button.tsx into that folder.
+
+
+<b>Resources:</b>https://react-icons.github.io/react-icons/<br>
+https://getbootstrap.com/docs/5.1/utilities/colors/ <br>
+<b>GitHub:</b> https://github.com/AaronAPerez/IntroToREACT <br>
+
+
+Peer Reviewed by: _____________ <br>
+Comments: ____________________________________________________ <br>
+
+------------------------------------------------------------------------------------------------------<br>
+
+
 <b>Name:</b> Aaron Perez   <br>
 <b>Project:</b> Mini Challenge 5 Alert Component  <br>
 <b>Date:</b> 05/14/2024 <br>
