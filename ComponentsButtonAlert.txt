@@ -1,0 +1,58 @@
+Create Folder
+New Terminal
+npm create vite@latest
+npm install
+npm run dev
+
+open src
+delete assests
+clear App.css
+clear index.css
+main.tsx comment out -  import 'bootstrap/dist/css/bootstrap.css'
+
+cd into folder
+npm run dev
+
+View Console, to the right, select Components - looks at app.tsx Components
+click component in console to see props, state 
+
+
+Create reusable button Steps:
+
+1) In Component folder right click create file Button.tsx
+2) Create component button shortcut - rafce - Press TAB key
+3) delete react import on top
+4) delete button text
+5) delete div text within <></>
+6) Add Bootstrap button in between <></>. shortcut - button.btn.btn-primary - Press TAB 
+
+7) Go to App.tsx to test
+8) In return -  add <Button></Button> double click to import from component - use lightbulb icon
+9) Verify it is imported on top of App.tsx
+
+-Button text is rendered / displayed from Button.tsx button text
+-Pass in props via children to be reusable
+
+10) Go to Button.tsx create - interface ButtonProps{children : string}
+11) Pass into component ({children}:ButtonProps)
+12) Remove Hardcoded text in button
+
+12) Go to App.tsx
+13) Add button text in between <Button></Button> - passing in via children
+
+14) Go to Button.tsx
+15) Pass in onClick Props and onClick Bootstrap property - Name onClick prop onClickFunction 
+16) 
+
+setInput e.target.value
+
+
+
+
+
+
+
+
+
+
+
